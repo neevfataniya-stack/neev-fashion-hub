@@ -1,0 +1,6 @@
+{
+  "name": "Neev Fashion Hub",
+  "description": "Modern Indian everyday clothing e-commerce store with full shopping journey, demo checkout in ₹ INR, and 30 curated apparel styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
